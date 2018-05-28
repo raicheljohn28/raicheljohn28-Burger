@@ -45,6 +45,7 @@ $(function() {
     });
 
     $("#delete-all").on("click", function(event) {
+        
         event.preventDefault();
 
         $.ajax("/api/burgers/" + id, {
