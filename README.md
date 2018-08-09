@@ -10,6 +10,6 @@ User submitted burgers are saved upon creation, and fetched on initial load via 
 
 ![](burger.png)
 
-You can find the app deployed on the Heroku in the link below.
+You can find the app deployed on Heroku in the link below.
 
 https://obscure-castle-75837.herokuapp.com/
